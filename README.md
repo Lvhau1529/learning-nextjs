@@ -11,8 +11,8 @@ yarn dev
 ```
 
 Open [http://localhost:5000](http://localhost:5000) with your browser to see the result.
-#or
-Open https://learning-nextjs-bice.vercel.app/ with your browser to see the result.
+
+Or open https://learning-nextjs-bice.vercel.app/
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
