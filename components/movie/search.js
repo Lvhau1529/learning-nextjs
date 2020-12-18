@@ -15,13 +15,13 @@ export default function SearchMovie() {
     <>
       <Row>
         <Col span={12} offset={6}>
-          <h1 style={{ textAlign: 'center' }}> Tìm kiếm phim</h1>
+          <h1 style={{ textAlign: 'center' }}> Tim kiem phim ban yeu thich</h1>
         </Col>
       </Row>
       <Row>
         <Col span={18} offset={3}>
           <Search
-            placeholder="Nhập tên phim"
+            placeholder="Enter name's movie"
             onSearch={(val) => searchFilms(val)}
             enterButton />
         </Col>
